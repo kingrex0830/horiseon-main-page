@@ -19,7 +19,7 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-
+/* Modified CSS to account for modified HTML elements */
 .header nav {
     list-style-type: none;
     padding-top: 15px;
