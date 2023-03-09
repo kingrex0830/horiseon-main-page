@@ -8,7 +8,7 @@ This is a small home page for the purpose of learning how to find and fix bugs, 
 
 ## Installation
 
-Simply open the index.html file to view the page, or follow this link: 
+Follow this link to view the page: https://kingrex0830.github.io/horiseon-main-page/
 
 ## Usage
 
